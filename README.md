@@ -1,2 +1,0 @@
-# Sols
-Sol
